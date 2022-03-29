@@ -44,28 +44,28 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[StackOverflow
-MDN Web Docs
-W3schools
-Youtube
-]
+* StackOverflow
+* MDN Web Docs
+* W3Schools 
+* Youtube
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[A challenge I encountered was figuring out how to implement the timer/ticking clock. I first had to familiarize myself with the methods ‘setInterval()’  and ‘clearInterval()’ by using MDN Web Docs and referenced Youtube videos that used setInterval and clearInterval to create timers. I definitely struggled with not knowing where to place setInterval and clearInterval. I initially only had one clearinterval() in my timer function, and soon realized that my timer was starting from the time that it was paused at and wouldn’t refresh back to the default time. I used the console to try to debug and see if any errors were popping up. None of the errors applied to the timer so, I proceeded to search on StackOverflow to see if other people have had this issue. After looking through several posts, a solution emerged. The solution was talking about how multiple setInterval() methods could have been running at the same time, which is why I needed to add one more clearInterval() before calling setInterval() in my playClueSequence() function. This was a pretty frustrating process, but extremely essential because I learned a lot more about the methods that I wouldn’t have really known through just reading on MDN Web Docs. Really goes to show the importance of reaching out for help and collaborating with other people. ]
+
+A challenge I encountered was figuring out how to implement the timer/ticking clock. I first had to familiarize myself with the methods ‘setInterval()’  and ‘clearInterval()’ by using MDN Web Docs and referenced Youtube videos that used setInterval and clearInterval to create timers. I definitely struggled with not knowing where to place setInterval and clearInterval. I initially only had one clearinterval() in my timer function, and soon realized that my timer was starting from the time that it was paused at and wouldn’t refresh back to the default time. I used the console to try to debug and see if any errors were popping up. None of the errors applied to the timer so, I proceeded to search on StackOverflow to see if other people have had this issue. After looking through several posts, a solution emerged. The solution was talking about how multiple setInterval() methods could have been running at the same time, which is why I needed to add one more clearInterval() before calling setInterval() in my playClueSequence() function. This was a pretty frustrating process, but extremely essential because I learned a lot more about the methods that I wouldn’t have really known through just reading on MDN Web Docs. Really goes to show the importance of reaching out for help and collaborating with other people. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[How to import an audio file? 
-How would I go about animating the hearts to move? 
-How were we able to directly access the sound library without having to import the library?
+* How to import an audio file? 
+* How would I go about animating the hearts to move? 
+* How were we able to directly access the sound library without having to import the library?
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[I would like to customize the game audio buttons to snippets of Studio Ghilbi songs. 
-Make it so that my timer starts after the last clue is played, because right now it starts while the clue is still playing. 
-Make the game customizable: so the player can decide how many buttons and how long the pattern is. 
-Make code more efficient by using loops to create repetitive things like buttons, heart emojis. 
-Add more comments for each chunk of code, so other people understand whats going on. 
-]
+* I would like to customize the game audio buttons to snippets of Studio Ghilbi songs. 
+* Make it so that my timer starts after the last clue is played, because right now it starts while the clue is still playing. 
+* Make the game customizable: so the player can decide how many buttons and how long the pattern is. 
+* Make code more efficient by using loops to create repetitive things like buttons, heart emojis. 
+* Add more comments for each chunk of code, so other people understand whats going on. 
+
 
 
 
