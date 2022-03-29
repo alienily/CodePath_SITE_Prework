@@ -37,10 +37,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+
+1. Game win with no mistakes 
+![](http://g.recordit.co/PMNw1eLT6C.gif)
+
+2. Game lost with 3 mistakes 
+![](http://g.recordit.co/zFnFbpUx7A.gif)
+
+3. Game lost because time ran out
+![](http://g.recordit.co/uSVJ1v9RFg.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
