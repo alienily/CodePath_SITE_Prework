@@ -8,7 +8,7 @@ Submitted by: **Lily Zhou**
 Time spent: **15** hours spent in total
 
 Link to project/code: https://glitch.com/edit/#!/sulfuric-cloudy-oak.  
-Live Site link: https://sulfuric-cloudy-oak.glitch.me## Required Functionality
+Live Site link: https://sulfuric-cloudy-oak.glitch.me## 
 
 The following **required** functionality is complete:
 * [X] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
