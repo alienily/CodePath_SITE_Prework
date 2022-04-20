@@ -77,7 +77,7 @@ A challenge I encountered was figuring out how to implement the timer/ticking cl
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://youtu.be/EPZpLrXvJ7c)
+[My 5-minute Interview Recording](https://www.youtube.com/watch?v=s5R4x9WTkKM)
 
 
 ## License
